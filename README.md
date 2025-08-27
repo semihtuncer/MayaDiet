@@ -33,6 +33,9 @@ The app is designed for individuals who are:
  - Within normal BMI and blood value ranges
  - Looking for a simple, private, and reliable way to monitor their health profile
 
+### :gear: Installation
+- Install from Google Play (Removed due to not being maintained)<a href="https://play.google.com/store/games?utm_source=emea_Med"> Here</a>
+
 ### :camera: Screenshots
 <div align=>
 <img src="https://github.com/semihtuncer/MayaDiet/blob/main/Images/Banner1.png" alt='image' width='400'/>
